@@ -1,4 +1,12 @@
 # Fetching-data-from-cryptowatch
+
+
+1) Library used:
+- requests
+- pandas    
+
+2) Steps:
+
 Pulling cryptocurrencies prices from a public API and download them as Excel files.
 1) Pull data from Bitcoin and Ether, two of the most popular cryptocurrencies, for the last 7 days.
 2) Collecting seperate data for Bitcoin & Ether.
